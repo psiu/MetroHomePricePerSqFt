@@ -4,7 +4,7 @@
 
 ### Data set sourced from Zillow:
 
-* http://files.zillowstatic.com/research/public/Metro.zip
+* http://files.zillowstatic.com/research/public/Metro/Metro_MedianSoldPricePerSqft_AllHomes.csv
 
 * App data set timestamp:  2/27/2016
 
