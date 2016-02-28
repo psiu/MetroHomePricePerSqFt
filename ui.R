@@ -1,5 +1,6 @@
 
 library(shiny)
+require(markdown)
 
 # Description 
 shinyUI(pageWithSidebar(
